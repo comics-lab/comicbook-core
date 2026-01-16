@@ -8,12 +8,6 @@
 - `GLOSSARY.md`
 
 
-## Agent and Logs
-
-- Agent profile: `AGENTS.md`
-- Logs (local-only): `CONVERSATION.md`, `BOOKMARKS.md`, `Action-Log.md` (when present)
-
-
 Shared library: naming rules, path builders, models, archive utilities, logging helpers, CSV reporting.
 
 ## Quickstart
